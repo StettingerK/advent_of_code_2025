@@ -1,5 +1,5 @@
 # with open(".\\data_test.txt", "r", encoding="UTF-8") as file:
-with open(".\\day_1\\Input_data.txt", "r", encoding="UTF-8") as file:
+with open(".\\day_1\\input_1.txt", "r", encoding="UTF-8") as file:
     lines = file.readlines()
 
 position = 50

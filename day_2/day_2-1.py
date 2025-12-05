@@ -1,5 +1,5 @@
 def main():
-    with open(".\\day_2\\input.txt", "r") as file:
+    with open(".\\day_2\\input_2.txt", "r") as file:
         data = file.readline()
 
     invalid = []
