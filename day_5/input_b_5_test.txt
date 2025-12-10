@@ -1,0 +1,21 @@
+3-5
+10-14
+16-20
+12-18
+
+1
+5
+8
+11
+17
+32
+
+
+für jede range schauen ob Sie überschneidungen hat wenn ja dann bei
+z.B. 10-14 schauen das 12 darin ist und wenn 18 größer wie die range dann die 12 auf 15 setzen 
+    wenn nicht in der range dann schauen ob die größere zahl drin ist dann 18 auf 15 setzen
+    wenn ganz enthalten dann ganz löschen
+3-5
+10-14
+16-20
+12-18
